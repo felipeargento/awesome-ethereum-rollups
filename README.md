@@ -16,6 +16,7 @@ A list of resources related to increasing the throughput of transactions on the 
 - [Optimistic Rollup is Not Secure Enough Than You Think — Game Theoretic Approach for More Verifiable Rollup](https://medium.com/onther-tech/optimistic-rollup-is-not-secure-enough-than-you-think-cb23e6e6f11c)
 - [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
 - [How rollup fees work](https://polynya.medium.com/how-rollup-fees-work-ddaa34f64c08)
+- [Application-Specific Rollups](https://medium.com/cartesi/application-specific-rollups-e12ed5d9de01)
 
 ## Protocols
 
@@ -67,6 +68,7 @@ allows an improved way of storing variables. There are two interesting libraries
 ### Virtual Machines
 
 - [weiroll/weiroll](https://github.com/weiroll/weiroll)
+- [cartesi/machine-emulator](https://github.com/cartesi/machine-emulator)
 
 ### Merkle Mountain Ranges
 
@@ -98,6 +100,7 @@ sparse Merkle trees [can be gas optimized](https://ethresear.ch/t/optimizing-spa
   - [Nutberry](https://github.com/NutBerry)
   - [Optimism](https://github.com/ethereum-optimism)
   - [dharma-eng/Tiramisu](https://github.com/dharma-eng/Tiramisu)
+  - [Cartesi](https://github.com/cartesi/rollups)
 - Pessimistic Rollups:
   - [Pessimistic swaps](https://github.com/kautukkundan/pessimistic-swaps)
 - Zero Knowledge Proof
